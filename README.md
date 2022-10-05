@@ -1,3 +1,4 @@
+![giphy](https://user-images.githubusercontent.com/31927278/194099360-914919ea-59f9-4ccd-8c2b-28fc2ec411ba.gif)
 # 💫 About Me:
 🔭 I’m Malek Mayeh<br>👯 I’m a software engineer student<br>🤝 I’m looking for anspiring people<br>🌱 I’m currently learning python<br>💬 I’m a Gamer also i’m going to be a developer :=)<br>⚡ fact : Gaming and coding is the same thing you always<br>have to focus on details in order to pass the current level
 
