@@ -1,6 +1,6 @@
 ![giphy](https://user-images.githubusercontent.com/31927278/194100647-341f7c5c-d76a-404e-8617-75d5bec8597c.gif)
 # 💫 About Me:
-🔭 I’m Malek Mayeh<br>👯 I’m a software engineer student<br>🤝 I’m looking for anspiring people<br>🌱 I’m currently learning c# and unity<br>💬 I’m a Gamer also i’m going to be a developer :=)<br>⚡ fact : Gaming and coding is the same thing you always<br>have to focus on details in order to pass the current level
+🔭 I’m Malek Mayeh<br>👯 I’m a AR/VR student<br>🤝 I’m looking for anspiring people<br>🌱 I’m currently learning c# and unity<br>💬 I’m a Gamer also i’m going to be a developer :=)<br>⚡ fact : Gaming and coding is the same thing you always<br>have to focus on details in order to pass the current level
 
 
 ## 🌐 Socials:
