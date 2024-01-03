@@ -1,23 +1,41 @@
 ![giphy](https://user-images.githubusercontent.com/31927278/194100647-341f7c5c-d76a-404e-8617-75d5bec8597c.gif)
-# 💫 About Me:
-🔭 I’m Malek Mayeh<br>👯 I’m a AR/VR student<br>🤝 I’m looking for anspiring people<br>🌱 I’m currently learning c# and unity<br>💬 I’m a Gamer also i’m going to be a developer :=)<br>⚡ fact : Gaming and coding is the same thing you always<br>have to focus on details in order to pass the current level
+<h1 align="center">Hi 👋, I'm Malek Mayeh</h1>
+<h3 align="center">A passionate Game Developer from Tunisia</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=malekje&label=Profile%20views&color=0e75b6&style=flat" alt="malekje" /> </p>
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Malekje2087) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/malek_ffs) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/in/malek-mayeh-0b937122b/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@malekje7) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/malekjee) 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=malekje" alt="malekje" /></a> </p>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=MalekJE&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=MalekJE&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MalekJE&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="left"> <a href="https://twitter.com/malek3mayeh" target="blank"><img src="https://img.shields.io/twitter/follow/malek3mayeh?logo=twitter&style=for-the-badge" alt="malek3mayeh" /></a> </p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=MalekJE&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+- 🌱 I’m currently learning **Unity & C#**
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+- 👯 I’m looking to collaborate on **3D Concept Games**
 
----
-[![](https://visitcount.itsvg.in/api?id=MalekJE&icon=9&color=0)](https://visitcount.itsvg.in)
+- 👨‍💻 All of my projects are available at [https://github.com/malekje](https://github.com/malekje)
+
+- 📝 I regularly write articles on [https://medium.com/@loukatankionline](https://medium.com/@loukatankionline)
+
+- 💬 Ask me about **Gaming & Unity Game Dev**
+
+- 📫 How to reach me **loukatankionline@gmail.com**
+
+- ⚡ fact **Gaming and coding is the same thing you always have to focus on details in order to pass the current level**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/malek3mayeh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="malek3mayeh" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/malek mayeh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="malek mayeh" height="30" width="40" /></a>
+<a href="https://fb.com/malek mayeh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="malek mayeh" height="30" width="40" /></a>
+<a href="https://medium.com/@malek mayeh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@malek mayeh" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/malek mayeh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="malek mayeh" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=malekje&show_icons=true&locale=en&layout=compact" alt="malekje" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=malekje&show_icons=true&locale=en" alt="malekje" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=malekje&" alt="malekje" /></p>
