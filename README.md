@@ -1,6 +1,6 @@
 ![giphy](https://user-images.githubusercontent.com/31927278/194100647-341f7c5c-d76a-404e-8617-75d5bec8597c.gif)
-<h1 align="center">Hi 👋, I'm Malek Mayeh</h1>
-<h3 align="center">A passionate Game Developer from Tunisia</h3>
+<h1 align="left">Hi 👋, I'm Malek Mayeh</h1>
+<h3 align="left">A passionate Game Developer from Tunisia</h3>
 
 
 
