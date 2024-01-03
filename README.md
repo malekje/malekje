@@ -1,6 +1,7 @@
+![giphy](https://user-images.githubusercontent.com/31927278/194100647-341f7c5c-d76a-404e-8617-75d5bec8597c.gif)
 <h1 align="center">Hi 👋, I'm Malek Mayeh</h1>
 <h3 align="center">A passionate Game Developer from Tunisia</h3>
-![giphy](https://user-images.githubusercontent.com/31927278/194100647-341f7c5c-d76a-404e-8617-75d5bec8597c.gif)
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=malekje&label=Profile%20views&color=0e75b6&style=flat" alt="malekje" /> </p>
